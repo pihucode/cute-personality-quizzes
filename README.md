@@ -12,3 +12,5 @@ A collection of personality quizzes with cute story and art.
 | [FruitCard Odyssey](https://gudetea.github.io/FruitCard-Odyssey/) | A fruit personality quiz based on MBTI personality types |
 | [Toastology](https://aureliasindhu.github.io/Toastology/index.html) | Find out which toast perfectly complements your taste! |
 | [What is your superpower?](https://dre-yo.github.io/super-personality-test/) | Learn what powers you possess |
+| [Ktestone Personality Character Test](https://ktestone.com/kapable.github.io/characteristicChracterEng) | What is your personality as a character? |
+| [Finding My Sanrio character](https://bestfriend.sweetdays.us/) | Which Sanrio character are you? |
